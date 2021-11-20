@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exemple d&#39;utilisation des langues</title>
-    <link>https://github.com/sherloz596/dwes01.git/fr/</link>
+    <link>https://sherloz596.github.io/dwes01/fr/</link>
     <description>Recent content on Exemple d&#39;utilisation des langues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Nov 2021 11:02:41 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/fr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 11:02:41 +0100</lastBuildDate><atom:link href="https://sherloz596.github.io/dwes01/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technique</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnicas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/tecnicas/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:51 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnicas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/tecnicas/</guid>
       <description>  Scraping. Le Web Scraping (&amp;ldquo;web scraping&amp;rdquo; ou &amp;ldquo;scraping&amp;rdquo;) est un processus au sein de la science des données qui est utilisé pour extraire des données de sites Web, généralement dans le langage de programmation Python et via l&amp;rsquo;apprentissage automatique, simulant la façon dont un être humain naviguerait sur certaines pages Web.  </description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/instalacion/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/instalacion/</link>
       <pubDate>Tue, 16 Nov 2021 19:57:15 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/instalacion/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/instalacion/</guid>
       <description> Pour installer hugo dans sa dernière version, il est préférable d&amp;rsquo;installer avec la commande snap. snap install hugo
 Si nous avons besoin du support Sass/SCSS :
 snap install hugo --channel=extended  Pour créer un nouveau site :
@@ -30,19 +30,19 @@ hugo new site &amp;lt;nom_du_site&amp;gt;  </description>
     
     <item>
       <title>Plateformes cloud</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/plataformas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/plataformas/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:39 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/plataformas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/plataformas/</guid>
       <description>  Heroku https://www.heroku.com/. Heroku est une plateforme de cloud computing en tant que service (PaaS) qui prend en charge différents langages de programmation.  </description>
     </item>
     
     <item>
       <title>Les sujets</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/temas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/temas/</link>
       <pubDate>Tue, 16 Nov 2021 20:26:52 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/temas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/temas/</guid>
       <description>Nous avons différentes manières d&amp;rsquo;installer un modèle.
 Tous doivent laisser dans le dossier des thèmes de notre projet un dossier avec le développement du modèle que nous allons télécharger depuis git
 Les moyens d&amp;rsquo;obtenir ce dossier peuvent être :
@@ -51,10 +51,10 @@ Les moyens d&amp;rsquo;obtenir ce dossier peuvent être :
     
     <item>
       <title>Technologies</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnologias/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/tecnologias/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:25 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnologias/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/tecnologias/</guid>
       <description>Babel https://babeljs.io/. Babel est un transcompilateur JavaScript gratuit et open source principalement utilisé pour convertir le code ECMAScript 2015+ en une version rétrocompatible de JavaScript pouvant être exécutée par des moteurs JavaScript plus anciens.
   JSP https://www.oracle.com/java/technologies/. JavaServer Pages est une technologie qui aide les développeurs de logiciels à créer des pages Web dynamiques basées sur HTML et XML, entre autres types de documents.
   Polyfill https://polyfill.</description>
@@ -62,10 +62,10 @@ Les moyens d&amp;rsquo;obtenir ce dossier peuvent être :
     
     <item>
       <title>Teneur</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/contenido/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/contenido/</link>
       <pubDate>Wed, 17 Nov 2021 09:48:43 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/contenido/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/contenido/</guid>
       <description>Pour créer un nouveau contenu, nous allons générer des pages de texte au format Markdown. Nous examinons comment nous utilisons différents répertoires pour créer notre organisation de notre contenu.
 Chaque répertoire correspondra à une section.
 Dans chaque section, il peut y avoir un fichier _index.md dont le contenu sera affiché lorsque nous sélectionnerons le répertoire spécifique.
@@ -75,10 +75,10 @@ hugo new [section]/déposer.</description>
     
     <item>
       <title>Générateurs Web</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/generadores/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/generadores/</link>
       <pubDate>Fri, 19 Nov 2021 18:33:47 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/generadores/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/generadores/</guid>
       <description>Hugo https://gohugo.io/. Hugo est un framework moderne de création de sites web statiques entièrement écrits en Go.
   Jekyll https://jekyllrb.com/. Jekyll est un générateur simple de sites Web statiques avec des capacités de blogs ; adapté aux sites Web personnels, de projet ou d&amp;rsquo;organisation écrits en Ruby.
   Pelican https://blog.getpelican.com/. Pelican est un constructeur de site Web statique basé sur Python.
@@ -87,10 +87,10 @@ hugo new [section]/déposer.</description>
     
     <item>
       <title>Shortcode</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/shortcode/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/shortcode/</link>
       <pubDate>Thu, 18 Nov 2021 21:15:17 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/shortcode/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/shortcode/</guid>
       <description>Un shortcode est un fragment de code html qui sera rendu dans un fichier md lorsque le système chargera ou affichera ladite page de contenu. C&amp;rsquo;est un moyen de donner des effets visuels et d&amp;rsquo;avoir plus de fonctionnalités sur notre site Web.
 Certaines des fonctions sont :
   Développer le texte.   En savoir plus fonction   L&amp;rsquo;une des fonctions des shortcodes est de raccourcir/étendre le texte</description>
@@ -98,10 +98,10 @@ Certaines des fonctions sont :
     
     <item>
       <title>Bibliothèques</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/librerias/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/librerias/</link>
       <pubDate>Fri, 19 Nov 2021 18:28:33 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/librerias/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/librerias/</guid>
       <description>Bootstrap https://getbootstrap.com/. Bootstrap est une bibliothèque multiplateforme ou une boîte à outils open source pour la conception de sites Web et les applications Web.
   React https://reactjs.org/. React (également appelé React.js ou ReactJS) est une bibliothèque Javascript open source conçue pour créer des interfaces utilisateur dans le but de faciliter le développement d&amp;rsquo;applications sur une seule page.
   JQuery https://jquery.com/. JQuery est une bibliothèque JavaScript multiplateforme qui simplifie la façon dont vous interagissez avec les documents HTML, manipulez l&amp;rsquo;arborescence DOM, gérez les événements, développez des animations et ajoutez une interaction AJAX aux pages Web.</description>
@@ -109,10 +109,10 @@ Certaines des fonctions sont :
     
     <item>
       <title>Modèle</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/plantilla/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/plantilla/</link>
       <pubDate>Thu, 18 Nov 2021 21:16:14 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/plantilla/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/plantilla/</guid>
       <description>Nous devons identifier les parties d&amp;rsquo;un modèle. Quel que soit le modèle utilisé, on peut parler de :
  Logo Couleurs utilisées dans le style Menu principal Identifions ces éléments dans notre modèle et voyons comment les modifier pour le personnaliser à notre guise.  Logo
 Dans ce modèle, apprenez, le logo est chargé après un partiel. Le dossier partiel contiendra des fichiers html qui feront partie d&amp;rsquo;une page html, afin que je puisse les appeler quand j&amp;rsquo;en ai besoin.</description>
@@ -120,10 +120,10 @@ Dans ce modèle, apprenez, le logo est chargé après un partiel. Le dossier par
     
     <item>
       <title>Langages</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/lenguajes/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/lenguajes/</link>
       <pubDate>Thu, 18 Nov 2021 23:55:21 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/lenguajes/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/lenguajes/</guid>
       <description>PHP https://www.php.net/manual/es/intro-whatis.php. PHP est un langage de programmation généraliste particulièrement adapté au développement Web.
   JavaScript https://www.javascript.com/. JavaScript (communément abrégé JS) est un langage de programmation interprété, dialecte de la norme ECMAScript. Il est défini comme orienté objet, basé sur des prototypes, impératif, vaguement typé et dynamique. Il est principalement utilisé côté client, implémenté dans le cadre d&amp;rsquo;un navigateur Web
   CSS https://www.w3.org/Style/CSS/Overview.en.html. CSS (acronyme en anglais de Cascading Style Sheets), en espagnol « Cascading Style Sheets », est un langage de conception graphique permettant de définir et de créer la présentation d&amp;rsquo;un document structuré rédigé dans un langage de balisage.</description>
@@ -131,10 +131,10 @@ Dans ce modèle, apprenez, le logo est chargé après un partiel. Le dossier par
     
     <item>
       <title>Multilingue</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/multilenguaje/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/multilenguaje/</link>
       <pubDate>Thu, 18 Nov 2021 21:15:54 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/multilenguaje/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/multilenguaje/</guid>
       <description>Hugo vous permet de paramétrer le multilangue pour adapter les pages dans la langue souhaitée.
 Pour ce faire, nous modifions d&amp;rsquo;abord le fichier de configuration en paramétrant les langues.Dans le cas de la pratique, j&amp;rsquo;ajoute l&amp;rsquo;anglais, le français et l&amp;rsquo;espagnol.
 [Languages] [Languages.es] title = &amp;quot;Ejemplo para el uso de idiomas&amp;quot; weight = 1 languageName = &amp;quot;Español&amp;quot; [Languages.en] title = &amp;quot;Example use language&amp;quot; weight = 2 languageName = &amp;quot;English&amp;quot; [Languages.fr] title = &amp;quot;Exemple d&#39;utilisation des langues&amp;quot; weight = 3 languageName = &amp;quot;Français&amp;quot;  Dans ce cas, nous allons établir différents répertoires pour établir l&amp;rsquo;emplacement des fichiers.</description>
@@ -142,10 +142,10 @@ Pour ce faire, nous modifions d&amp;rsquo;abord le fichier de configuration en p
     
     <item>
       <title>Frameworks</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/frameworks/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/frameworks/</link>
       <pubDate>Thu, 18 Nov 2021 23:49:24 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/frameworks/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/frameworks/</guid>
       <description>Webpack https://webpack.js.org/. Webpack est un outil utilisé par les développeurs pour empaqueter et exporter tous les fichiers nécessaires pour qu&amp;rsquo;un projet fonctionne avec toutes ses dépendances frontales.
   Prototype http://prototypejs.org/. Prototype est un framework écrit en JavaScript qui est orienté vers le développement simple et dynamique d&amp;rsquo;applications web.
   Frameworks de PHP
@@ -154,19 +154,19 @@ Pour ce faire, nous modifions d&amp;rsquo;abord le fichier de configuration en p
     
     <item>
       <title>Données externes</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/canales/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/canales/</link>
       <pubDate>Thu, 18 Nov 2021 19:12:17 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/canales/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/canales/</guid>
       <description> Liste des chaînes de télévision </description>
     </item>
     
     <item>
       <title>Gestionnaires de bases de données</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/bbdd/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/bbdd/</link>
       <pubDate>Sat, 20 Nov 2021 11:02:41 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/bbdd/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/bbdd/</guid>
       <description>Oracle https://www.oracle.com/es/database/. Oracle Database est un système de gestion de base de données relationnelle objet.
   MySLQ https://www.mysql.com/. MySQL est un système de gestion de base de données relationnelle.
   SQL Server https://www.microsoft.com/en-us/sql-server/sql-server-2019. Microsoft SQL Server est un système de gestion de base de données relationnelle, développé par la société Microsoft.
@@ -175,19 +175,19 @@ Pour ce faire, nous modifions d&amp;rsquo;abord le fichier de configuration en p
     
     <item>
       <title>Téléchargements</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/practica/descargas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/practica/descargas/</link>
       <pubDate>Sat, 20 Nov 2021 10:01:11 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/practica/descargas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/practica/descargas/</guid>
       <description>  Telecharger des fichiers   Convalidaciones_información (2).pdf (552 ko)   horario.pdf (36 ko)   primera_convocatoria.pdf (37 ko)   primera_evaluacion.pdf (38 ko)   segunda_convocatoria.pdf (37 ko)   segunda_evaluacion.pdf (38 ko)    </description>
     </item>
     
     <item>
       <title>Schéma client/serveur</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/diagrama/diagrama/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/diagrama/diagrama/</link>
       <pubDate>Fri, 19 Nov 2021 15:52:22 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/diagrama/diagrama/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/diagrama/diagrama/</guid>
       <description>L&amp;rsquo;utilisateur écrit l&amp;rsquo;URL de la page à afficher dans la barre d&amp;rsquo;adresse du navigateur du client. Le client vérifie si l&amp;rsquo;adresse IP de la page demandée est stockée dans le cache. S&amp;rsquo;il est positif, il le renvoie au navigateur, s&amp;rsquo;il ne l&amp;rsquo;a pas, consultez le serveur DNS qui renvoie l&amp;rsquo;adresse IP.  flowchart LR; A[Client] --|URL| B(cache/hôte) B -- C{NON} C -- D[Serveur DNS] D -- |adresse ip| A B -- E{OUI} E -- |adresse ip| A  Le client établit une connexion TCP/IP avec le serveur.</description>
     </item>
     

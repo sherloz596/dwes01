@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/sherloz596/dwes01.git'
+baseURL = 'https://sherloz596.github.io/dwes01/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'learn'

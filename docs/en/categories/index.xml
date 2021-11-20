@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Example use language</title>
-    <link>https://github.com/sherloz596/dwes01.git/en/categories/</link>
+    <link>https://sherloz596.github.io/dwes01/en/categories/</link>
     <description>Recent content in Categories on Example use language</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/sherloz596/dwes01.git/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sherloz596.github.io/dwes01/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

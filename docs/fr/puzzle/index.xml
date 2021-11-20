@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Résoudre le puzzle on Exemple d&#39;utilisation des langues</title>
-    <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/</link>
+    <link>https://sherloz596.github.io/dwes01/fr/puzzle/</link>
     <description>Recent content in Résoudre le puzzle on Exemple d&#39;utilisation des langues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 18:14:38 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/fr/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 18:14:38 +0100</lastBuildDate><atom:link href="https://sherloz596.github.io/dwes01/fr/puzzle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technique</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnicas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/tecnicas/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:51 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnicas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/tecnicas/</guid>
       <description>  Scraping. Le Web Scraping (&amp;ldquo;web scraping&amp;rdquo; ou &amp;ldquo;scraping&amp;rdquo;) est un processus au sein de la science des données qui est utilisé pour extraire des données de sites Web, généralement dans le langage de programmation Python et via l&amp;rsquo;apprentissage automatique, simulant la façon dont un être humain naviguerait sur certaines pages Web.  </description>
     </item>
     
     <item>
       <title>Plateformes cloud</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/plataformas/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/plataformas/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:39 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/plataformas/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/plataformas/</guid>
       <description>  Heroku https://www.heroku.com/. Heroku est une plateforme de cloud computing en tant que service (PaaS) qui prend en charge différents langages de programmation.  </description>
     </item>
     
     <item>
       <title>Technologies</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnologias/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/tecnologias/</link>
       <pubDate>Fri, 19 Nov 2021 18:49:25 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/tecnologias/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/tecnologias/</guid>
       <description>Babel https://babeljs.io/. Babel est un transcompilateur JavaScript gratuit et open source principalement utilisé pour convertir le code ECMAScript 2015+ en une version rétrocompatible de JavaScript pouvant être exécutée par des moteurs JavaScript plus anciens.
   JSP https://www.oracle.com/java/technologies/. JavaServer Pages est une technologie qui aide les développeurs de logiciels à créer des pages Web dynamiques basées sur HTML et XML, entre autres types de documents.
   Polyfill https://polyfill.</description>
@@ -38,10 +38,10 @@
     
     <item>
       <title>Générateurs Web</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/generadores/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/generadores/</link>
       <pubDate>Fri, 19 Nov 2021 18:33:47 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/generadores/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/generadores/</guid>
       <description>Hugo https://gohugo.io/. Hugo est un framework moderne de création de sites web statiques entièrement écrits en Go.
   Jekyll https://jekyllrb.com/. Jekyll est un générateur simple de sites Web statiques avec des capacités de blogs ; adapté aux sites Web personnels, de projet ou d&amp;rsquo;organisation écrits en Ruby.
   Pelican https://blog.getpelican.com/. Pelican est un constructeur de site Web statique basé sur Python.
@@ -50,10 +50,10 @@
     
     <item>
       <title>Bibliothèques</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/librerias/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/librerias/</link>
       <pubDate>Fri, 19 Nov 2021 18:28:33 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/librerias/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/librerias/</guid>
       <description>Bootstrap https://getbootstrap.com/. Bootstrap est une bibliothèque multiplateforme ou une boîte à outils open source pour la conception de sites Web et les applications Web.
   React https://reactjs.org/. React (également appelé React.js ou ReactJS) est une bibliothèque Javascript open source conçue pour créer des interfaces utilisateur dans le but de faciliter le développement d&amp;rsquo;applications sur une seule page.
   JQuery https://jquery.com/. JQuery est une bibliothèque JavaScript multiplateforme qui simplifie la façon dont vous interagissez avec les documents HTML, manipulez l&amp;rsquo;arborescence DOM, gérez les événements, développez des animations et ajoutez une interaction AJAX aux pages Web.</description>
@@ -61,10 +61,10 @@
     
     <item>
       <title>Langages</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/lenguajes/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/lenguajes/</link>
       <pubDate>Thu, 18 Nov 2021 23:55:21 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/lenguajes/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/lenguajes/</guid>
       <description>PHP https://www.php.net/manual/es/intro-whatis.php. PHP est un langage de programmation généraliste particulièrement adapté au développement Web.
   JavaScript https://www.javascript.com/. JavaScript (communément abrégé JS) est un langage de programmation interprété, dialecte de la norme ECMAScript. Il est défini comme orienté objet, basé sur des prototypes, impératif, vaguement typé et dynamique. Il est principalement utilisé côté client, implémenté dans le cadre d&amp;rsquo;un navigateur Web
   CSS https://www.w3.org/Style/CSS/Overview.en.html. CSS (acronyme en anglais de Cascading Style Sheets), en espagnol « Cascading Style Sheets », est un langage de conception graphique permettant de définir et de créer la présentation d&amp;rsquo;un document structuré rédigé dans un langage de balisage.</description>
@@ -72,10 +72,10 @@
     
     <item>
       <title>Frameworks</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/frameworks/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/frameworks/</link>
       <pubDate>Thu, 18 Nov 2021 23:49:24 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/frameworks/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/frameworks/</guid>
       <description>Webpack https://webpack.js.org/. Webpack est un outil utilisé par les développeurs pour empaqueter et exporter tous les fichiers nécessaires pour qu&amp;rsquo;un projet fonctionne avec toutes ses dépendances frontales.
   Prototype http://prototypejs.org/. Prototype est un framework écrit en JavaScript qui est orienté vers le développement simple et dynamique d&amp;rsquo;applications web.
   Frameworks de PHP
@@ -84,10 +84,10 @@
     
     <item>
       <title>Gestionnaires de bases de données</title>
-      <link>https://github.com/sherloz596/dwes01.git/fr/puzzle/bbdd/</link>
+      <link>https://sherloz596.github.io/dwes01/fr/puzzle/bbdd/</link>
       <pubDate>Sat, 20 Nov 2021 11:02:41 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/fr/puzzle/bbdd/</guid>
+      <guid>https://sherloz596.github.io/dwes01/fr/puzzle/bbdd/</guid>
       <description>Oracle https://www.oracle.com/es/database/. Oracle Database est un système de gestion de base de données relationnelle objet.
   MySLQ https://www.mysql.com/. MySQL est un système de gestion de base de données relationnelle.
   SQL Server https://www.microsoft.com/en-us/sql-server/sql-server-2019. Microsoft SQL Server est un système de gestion de base de données relationnelle, développé par la société Microsoft.

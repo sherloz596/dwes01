@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comunicación cliente/servidor on Creación de un sitio web con hugo</title>
-    <link>https://github.com/sherloz596/dwes01.git/diagrama/</link>
+    <link>https://sherloz596.github.io/dwes01/diagrama/</link>
     <description>Recent content in Comunicación cliente/servidor on Creación de un sitio web con hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Nov 2021 10:06:45 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/diagrama/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Nov 2021 10:06:45 +0100</lastBuildDate><atom:link href="https://sherloz596.github.io/dwes01/diagrama/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diagrama cliente/servidor</title>
-      <link>https://github.com/sherloz596/dwes01.git/diagrama/diagrama/</link>
+      <link>https://sherloz596.github.io/dwes01/diagrama/diagrama/</link>
       <pubDate>Fri, 19 Nov 2021 15:52:22 +0100</pubDate>
       
-      <guid>https://github.com/sherloz596/dwes01.git/diagrama/diagrama/</guid>
+      <guid>https://sherloz596.github.io/dwes01/diagrama/diagrama/</guid>
       <description>El usuario escribe en la barra de direcciones del navegador del cliente la URL de la página a mostrar. El cliente comprueba si tiene almacenada en la caché la dirección ip de la página solicitada. En caso positivo la retorna al navegador, si no la tiene consulta al servidor DNS el cual le retorna la dirección ip.  flowchart LR; A[Cliente] --|URL| B(caché/host) B -- C{NO} C -- D[Servidor DNS] D -- |Dirección ip| A B -- E{SI} E -- |Dirección ip| A  El cliente establece una conexión TCP/IP con el servidor.</description>
     </item>
     

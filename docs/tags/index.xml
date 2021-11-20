@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Creación de un sitio web con hugo</title>
-    <link>https://github.com/sherloz596/dwes01.git/tags/</link>
+    <link>https://sherloz596.github.io/dwes01/tags/</link>
     <description>Recent content in Tags on Creación de un sitio web con hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://github.com/sherloz596/dwes01.git/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sherloz596.github.io/dwes01/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
