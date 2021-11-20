@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create a website with hugo on Example use language</title>
+    <link>https://github.com/sherloz596/dwes01.git/en/practica/</link>
+    <description>Recent content in Create a website with hugo on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 19:53:17 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/en/practica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/instalacion/</link>
+      <pubDate>Tue, 16 Nov 2021 19:57:15 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/instalacion/</guid>
+      <description> To install hugo in its latest version, it is better to install with the snap command.
+snap install hugo  If we need Sass/SCSS support:
+snap install hugo --channel=extended  To create a new site:
+hugo new site &amp;lt;site_name&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Themes</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/temas/</link>
+      <pubDate>Tue, 16 Nov 2021 20:26:52 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/temas/</guid>
+      <description>We have different ways to install a template.
+All of them have to leave in the themes folder of our project a folder with the development of the template that we are going to download from git
+The ways to get this folder can be:
+ Download the development and unzip it in the folder Clone directly to the folder with git clone Clone it as a submodule from the project folder  I have used the third way.</description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/contenido/</link>
+      <pubDate>Wed, 17 Nov 2021 09:48:43 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/contenido/</guid>
+      <description>To create new content we are going to generate text pages with markdown format. We look at how we use different directories to create our organization of our content.
+Each directory will correspond to a section.
+Within each section there may be a _index.md file whose content will be displayed when we select the specific directory.
+Command to create content files and/or sections:
+hugo new [section]/file.md  In the specific case of the learn template, the pages are classified into two types, those that are the head of a topic or section (_index.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/shortcode/</link>
+      <pubDate>Thu, 18 Nov 2021 21:15:17 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/shortcode/</guid>
+      <description>A shortcode is a fragment of html code that will be rendered within an md file when the system loads or renders said content page. It is a way to give visual effects and to have more functionality within our website.
+Some of the functions are:
+  Expand text.   Read more function   One of the functions of shortcodes is to shorten/expand text</description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/plantilla/</link>
+      <pubDate>Thu, 18 Nov 2021 21:16:14 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/plantilla/</guid>
+      <description>We must identify the parts of a template. Regardless of the template used, we can talk about:
+ Logo Colors used in the style Main menu Let&amp;rsquo;s identify those elements in our template and see how to modify them to customize it to our liking.  Logo
+In this template, learn, the logo is loaded after a partial. The partial folder will contain html files that will be part of an html page, so that I can invoke them when I need them.</description>
+    </item>
+    
+    <item>
+      <title>Multilanguage</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/multilenguaje/</link>
+      <pubDate>Thu, 18 Nov 2021 21:15:54 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/multilenguaje/</guid>
+      <description>Hugo allows you to set the multilanguage to adapt the pages in the desired language.
+To do this, we first modify the configuration file by setting the languages. In the case of practice, I add English, French, and Spanish.
+[Languages] [Languages.es] title = &amp;quot;Ejemplo para el uso de idiomas&amp;quot; weight = 1 languageName = &amp;quot;Español&amp;quot; [Languages.en] title = &amp;quot;Example use language&amp;quot; weight = 2 languageName = &amp;quot;English&amp;quot; [Languages.fr] title = &amp;quot;Exemple d&#39;utilisation des langues&amp;quot; weight = 3 languageName = &amp;quot;Français&amp;quot;  In this case we are going to establish different directories to establish the location of the files.</description>
+    </item>
+    
+    <item>
+      <title>External data</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/canales/</link>
+      <pubDate>Thu, 18 Nov 2021 19:12:17 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/canales/</guid>
+      <description> List of tv channels </description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/practica/descargas/</link>
+      <pubDate>Sat, 20 Nov 2021 10:01:11 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/practica/descargas/</guid>
+      <description>  Download files   Convalidaciones_información (2).pdf (552 KB)   horario.pdf (36 KB)   primera_convocatoria.pdf (37 KB)   primera_evaluacion.pdf (38 KB)   segunda_convocatoria.pdf (37 KB)   segunda_evaluacion.pdf (38 KB)    </description>
+    </item>
+    
+  </channel>
+</rss>

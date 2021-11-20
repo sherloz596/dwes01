@@ -1,0 +1,91 @@
+baseURL = 'https://github.com/sherloz596/dwes01.git'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'learn'
+
+defaultContentLanguage="es"
+
+[params]
+themeVariant="dwes"
+
+[Languages]
+    [Languages.es]
+        title = "Creación de un sitio web con hugo"
+        weight = 1
+        languageName = "Español"
+        ContentDir="content/es"
+
+        [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-book'></i> Contenidos DWES"
+        url = "http://dwes.infenlaces.com/hugo/staticSite/public/index.html"
+        weight = 10
+
+        [[Languages.es.menu.shortcuts]]
+        name = "<i class='fab fa-wikipedia-w'></i> Wiki del curso"
+        url = "https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Distancia/Contenido"
+        weight = 20
+
+        [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com/"
+        weight = 30
+
+        [[Languages.es.menu.shortcuts]]
+        name = "<i class='fas fa-bookmark'></i> Documentación Hugo"
+        identifier = "hugodoc"
+        url = "https://gohugo.io/"
+        weight = 40
+
+    [Languages.en]
+        title = "Example use language"
+        weight = 2
+        languageName = "English"
+        ContentDir="content/en"
+
+        [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-book'></i> DWES contents"
+        url = "http://dwes.infenlaces.com/hugo/staticSite/public/index.html"
+        weight = 10
+
+        [[Languages.en.menu.shortcuts]]
+        name = "<i class='fab fa-wikipedia-w'></i> Course Wiki"
+        url = "https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Distancia/Contenido"
+        weight = 20
+
+        [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com/"
+        weight = 30
+
+        [[Languages.en.menu.shortcuts]]
+        name = "<i class='fas fa-bookmark'></i> Hugo Documentation"
+        identifier = "hugodoc"
+        url = "https://gohugo.io/"
+        weight = 40
+
+   [Languages.fr]
+        title = "Exemple d'utilisation des langues"
+        weight = 3
+        languageName = "Français"
+        ContentDir="content/fr"
+
+        [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-book'></i> Contenu DWES"
+        url = "http://dwes.infenlaces.com/hugo/staticSite/public/index.html"
+        weight = 10
+
+        [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fab fa-wikipedia-w'></i> Wiki du cours"
+        url = "https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Distancia/Contenido"
+        weight = 20
+
+        [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-graduation-cap'></i> CPIFP Los Enlaces"
+        url = "http://www.cpilosenlaces.com/"
+        weight = 30
+
+        [[Languages.fr.menu.shortcuts]]
+        name = "<i class='fas fa-bookmark'></i> Documentation Hugo"
+        identifier = "hugodoc"
+        url = "https://gohugo.io/"
+        weight = 40

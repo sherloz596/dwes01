@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Client/server communication on Example use language</title>
+    <link>https://github.com/sherloz596/dwes01.git/en/diagrama/</link>
+    <description>Recent content in Client/server communication on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 10:06:45 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/en/diagrama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Client / server diagram</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/diagrama/diagrama/</link>
+      <pubDate>Fri, 19 Nov 2021 15:52:22 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/diagrama/diagrama/</guid>
+      <description>The user writes the URL of the page to display in the address bar of the client&amp;rsquo;s browser. The client checks if the IP address of the requested page is stored in the cache. If it is positive, it returns it to the browser, if it does not have it, consult the DNS server which returns the IP address.  flowchart LR; A(Customer) --|URL| B(cache/host) B -- C{NO} C -- D(DNS Server) D -- |IP address| A B -- E{YES} E -- |IP address| A  The client establishes a TCP / IP connection with the server.</description>
+    </item>
+    
+  </channel>
+</rss>

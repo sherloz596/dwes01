@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Crear un sitio web con hugo on Creación de un sitio web con hugo</title>
+    <link>https://github.com/sherloz596/dwes01.git/practica/</link>
+    <description>Recent content in Crear un sitio web con hugo on Creación de un sitio web con hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Nov 2021 19:53:17 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/practica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/instalacion/</link>
+      <pubDate>Tue, 16 Nov 2021 19:57:15 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/instalacion/</guid>
+      <description> Para instalar hugo en su última versión mejor instalar con el comando snap.
+snap install hugo  Si necesitamos soporte Sass/SCSS:
+snap install hugo --channel=extended  Para crear un nuevo sitio:
+hugo new site &amp;lt;nombre_del_sitio&amp;gt;  </description>
+    </item>
+    
+    <item>
+      <title>Temas</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/temas/</link>
+      <pubDate>Tue, 16 Nov 2021 20:26:52 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/temas/</guid>
+      <description>Tenemos diferentes modos de instalar una plantilla.
+Todas ellas han de dejar en la carpeta themes de nuestro proyecto una carpeta con el desarrollo de la plantilla que nos vamos a descargar de git
+Las formas de obtener esta carpeta puede ser:
+ Descargar el desarrollo y descomprimirlo en la carpeta Clonar directamente en el carpeta con git clone Clonarlo como un submodule a partir de la carpeta del proyecto  Yo he utilizado la tercera forma.</description>
+    </item>
+    
+    <item>
+      <title>Contenido</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/contenido/</link>
+      <pubDate>Wed, 17 Nov 2021 09:48:43 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/contenido/</guid>
+      <description>Para crear nuevo contenido vamos a generar páginas de texto con formato markdown. Observamos cómo usamos diferentes directorios para crear nuestra organización de nuestro contenido.
+Cada directorio corresponderá a una sección.
+Dentro de cada sección puede haber un fichero _index.md cuyo contenido se visualizará cuando seleccionemos el directorio concreto.
+Comando para crear ficheros de contenido y/o secciones:
+hugo new [seccion]/fichero.md  En el caso concreto de la plantilla learn,se clasifica las páginas en dos tipos, las que son cabecera de un tema o sección (_index.</description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/shortcode/</link>
+      <pubDate>Thu, 18 Nov 2021 21:15:17 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/shortcode/</guid>
+      <description>Un shortcode es un fragmento de código html que será renderizado dentro de un fichero md cuando el sistema cargue o renderice dicha página de contenido Es una forma de dar efectos visuales y de poder tener mayor funcionalidad dentro de nuestro sitio web.
+Algunas de las funciones son:
+  Expandir texto.   Función leer más   Una de las funciones de los shortcode es acortar/expandir texto</description>
+    </item>
+    
+    <item>
+      <title>Plantilla</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/plantilla/</link>
+      <pubDate>Thu, 18 Nov 2021 21:16:14 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/plantilla/</guid>
+      <description>Debemos identificar las partes de una plantilla. Independientemente de la plantilla utilizada podemos hablar de:
+ Logo Colores usados en el estilo Menú principal Identifiquemos esos elementos en nuestra plantilla y veamos cómo modificarlos para personalizarla a nuestro gusto.  Logo
+En esta plantilla, learn, el logo se carga a patir de un partial. La carpeta partial , va a contener ficheros html que serán parte una página html, de forma que los podré invocar cuando los necesite.</description>
+    </item>
+    
+    <item>
+      <title>Multilenguaje</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/multilenguaje/</link>
+      <pubDate>Thu, 18 Nov 2021 21:15:54 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/multilenguaje/</guid>
+      <description>Hugo permite establecer el multilenguaje para adaptar las páginas en el lenguaje deseado.
+Para ello, lo primero modificamos el fichero de configuración estableciendo los idiomas.En el caso de la práctica añado inglés, francés, y español.
+[Languages] [Languages.es] title = &amp;quot;Ejemplo para el uso de idiomas&amp;quot; weight = 1 languageName = &amp;quot;Español&amp;quot; [Languages.en] title = &amp;quot;Example use language&amp;quot; weight = 2 languageName = &amp;quot;English&amp;quot; [Languages.fr] title = &amp;quot;Exemple d&#39;utilisation des langues&amp;quot; weight = 3 languageName = &amp;quot;Français&amp;quot;  En este caso vamos a establecer diferentes directorios para establecer la ubicación de los ficheros.</description>
+    </item>
+    
+    <item>
+      <title>Datos externos</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/canales/</link>
+      <pubDate>Thu, 18 Nov 2021 19:12:17 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/canales/</guid>
+      <description> Listado de canales de tv </description>
+    </item>
+    
+    <item>
+      <title>Descargas</title>
+      <link>https://github.com/sherloz596/dwes01.git/practica/descargas/</link>
+      <pubDate>Sat, 20 Nov 2021 10:01:11 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/practica/descargas/</guid>
+      <description>  Descargar archivos   Convalidaciones_información (2).pdf (552 KB)   horario.pdf (36 KB)   primera_convocatoria.pdf (37 KB)   primera_evaluacion.pdf (38 KB)   segunda_convocatoria.pdf (37 KB)   segunda_evaluacion.pdf (38 KB)    </description>
+    </item>
+    
+  </channel>
+</rss>

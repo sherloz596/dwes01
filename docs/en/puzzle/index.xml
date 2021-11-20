@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solve the puzzle on Example use language</title>
+    <link>https://github.com/sherloz596/dwes01.git/en/puzzle/</link>
+    <description>Recent content in Solve the puzzle on Example use language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 18:14:38 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/en/puzzle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Techniques</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/tecnicas/</link>
+      <pubDate>Fri, 19 Nov 2021 18:49:51 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/tecnicas/</guid>
+      <description>  Scraping. Web Scraping (&amp;ldquo;web scraping&amp;rdquo; or &amp;ldquo;scraping&amp;rdquo;) is a process within Data Science that is used to extract data from websites, usually in the Python programming language and through machine learning, simulating how a human being would navigate on certain web pages.  </description>
+    </item>
+    
+    <item>
+      <title>Cloud platforms</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/plataformas/</link>
+      <pubDate>Fri, 19 Nov 2021 18:49:39 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/plataformas/</guid>
+      <description>  Heroku https://www.heroku.com/. Heroku is a cloud computing platform as a service (PaaS) that supports different programming languages.  </description>
+    </item>
+    
+    <item>
+      <title>Technologies</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/tecnologias/</link>
+      <pubDate>Fri, 19 Nov 2021 18:49:25 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/tecnologias/</guid>
+      <description>Babel https://babeljs.io/. Babel is a free and open source JavaScript transcompiler primarily used to convert ECMAScript 2015+ code into a backward compatible version of JavaScript that can be run by older JavaScript engines.
+  JSP https://www.oracle.com/java/technologies/. JavaServer Pages is a technology that helps software developers create dynamic web pages based on HTML and XML, among other types of documents.
+  Polyfill https://polyfill.io/v3/. Polyfill is a more or less extensive code module that makes modern HTML, CSS or JavaScript functions available in older browsers that no longer support them.</description>
+    </item>
+    
+    <item>
+      <title>Web generators</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/generadores/</link>
+      <pubDate>Fri, 19 Nov 2021 18:33:47 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/generadores/</guid>
+      <description>Hugo https://gohugo.io/. Hugo is a modern framework for creating static websites written entirely in Go.
+  Jekyll https://jekyllrb.com/. Jekyll is a simple generator for static websites with blogging capabilities; suitable for personal, project or organization websites written in Ruby.
+  Pelican https://blog.getpelican.com/. Pelican is a python-based static website builder.
+  Vuepress https://vuepress.vuejs.org/. VuePress is a powerful static website builder based on the Vue.js framework.</description>
+    </item>
+    
+    <item>
+      <title>Libraries</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/librerias/</link>
+      <pubDate>Fri, 19 Nov 2021 18:28:33 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/librerias/</guid>
+      <description>Bootstrap https://getbootstrap.com/. Bootstrap is a cross-platform library or open source toolkit for web site and application design.
+  React https://reactjs.org/. React (also called React.js or ReactJS) is an open source Javascript library designed to create user interfaces with the aim of facilitating application development on a single page.
+  JQuery https://jquery.com/. JQuery is a cross-platform JavaScript library that simplifies the way you interact with HTML documents, manipulate the DOM tree, handle events, develop animations, and add AJAX interaction to web pages.</description>
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/lenguajes/</link>
+      <pubDate>Thu, 18 Nov 2021 23:55:21 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/lenguajes/</guid>
+      <description>PHP https://www.php.net/manual/es/intro-whatis.php. PHP is a general-purpose programming language that is especially suited to web development.
+  JavaScript https://www.javascript.com/. JavaScript (commonly abbreviated JS) is an interpreted programming language, dialect of the ECMAScript standard. It is defined as object-oriented, 2 prototype-based, imperative, loosely typed, and dynamic. It is mainly used on the client side, implemented as part of a web browser
+  CSS https://www.w3.org/Style/CSS/Overview.en.html. CSS (acronym in English for Cascading Style Sheets), in Spanish «Cascading Style Sheets», is a graphic design language to define and create the presentation of a structured document written in a markup language.</description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/frameworks/</link>
+      <pubDate>Thu, 18 Nov 2021 23:49:24 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/frameworks/</guid>
+      <description>Webpack https://webpack.js.org/. Webpack is a tool used by developers to package and export all the files necessary for a project to work with all its frontend dependencies.
+  Prototype http://prototypejs.org/. Prototype is a framework written in JavaScript that is oriented to the simple and dynamic development of web applications.
+  Frameworks de PHP
+  DJango https://www.djangoproject.com/. Django is an open source web development framework, written in Python, that respects the design pattern known as model-view-controller (MVC).</description>
+    </item>
+    
+    <item>
+      <title>Database managers</title>
+      <link>https://github.com/sherloz596/dwes01.git/en/puzzle/bbdd/</link>
+      <pubDate>Sat, 20 Nov 2021 11:02:41 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/en/puzzle/bbdd/</guid>
+      <description>   Oracle https://www.oracle.com/es/database/. Oracle Database is an object-relational database management system.
+  MySLQ https://www.mysql.com/. MySQL is a relational database management system.
+  SQL Server https://www.microsoft.com/en-us/sql-server/sql-server-2019. Microsoft SQL Server is a relational database management system, developed by the Microsoft company.
+  PostgreSQL https://www.postgresql.org/. PostgreSQL, also called Postgres, is an open source, object-oriented relational database management system.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+{{ partial "header.html" . }}
+<span id="sidebar-toggle-span">
+<a href="#" id="sidebar-toggle" data-sidebar-toggle=""><i class="fas fa-bars"></i> navigation</a>
+</span>
+
+{{if .Site.Home.Content }} 
+{{.Site.Home.Content}}	
+{{else}}
+	{{if eq .Site.Language.Lang "es"}}
+	<h3><i>Creación de un sitio web estático con hugo.</i></h3>
+	<p>
+		Sitio web creado para la realización de la primera práctica del módulo Desarrollo Web en Entorno Servidor.
+		En este sitio web voy a resumir a modo de tarea-apuntes los pasos que hay que dar para crear un sitio web con hugo.
+	</p>
+	<p>Las tareas realizadas en esta práctica son:</p>
+	<ul>
+		<li>Creación de un sitio web con hugo</li>
+		<li>Diagrama comunicación cliente/servidor</li>
+		<li>Resuelve el puzzle</li>
+	</ul>
+	{{else if eq .Site.Language.Lang "fr"}}
+		<h3> <i> Création d'un site web statique avec hugo. </i> </h3>
+		<p>
+			Site créé pour réaliser la première pratique du module Développement Web en environnement serveur.
+			Dans ce site Web, je vais résumer sous forme de notes de tâche les étapes à suivre pour créer un site Web avec hugo.
+		</p>
+		<p> Les tâches effectuées dans cette pratique sont : </p>
+		<ul>
+			<li> Créer un site web avec hugo </li>
+			<li> Schéma de communication client/serveur </li>
+			<li> Résolvez l'énigme </li>
+		</ul>
+	{{else if eq .Site.Language.Lang "en"}}
+		<h3> <i> Creating a static website with hugo. </i> </h3>
+		<p>
+			Website created to carry out the first practice of the Web Development module in Server Environment.
+			In this website I am going to summarize as a task-note the steps to be taken to create a website with hugo.
+		</p>
+		<p> The tasks performed in this practice are: </p>
+		<ul>
+			<li> Creating a website with hugo </li>
+			<li> Client / server communication diagram </li>
+			<li> Solve the puzzle </li>
+		</ul>
+	{{end}}
+{{ end }}  
+{{ partial "footer.html" . }}

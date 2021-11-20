@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+{{ .Content }}
+{{ range.Site.Data.tv}}
+    <h3>{{.name}}</h3>
+	{{range .channels}}
+	<a href=" {{ .web}}" target="_blank"> <img src="{{ .logo}}" alt="{{ .name }}"></a>
+	{{end}}
+{{end}}
+
+
+
+
+<footer class="footline">
+	{{with .Params.LastModifierDisplayName}}
+	    <i class='fas fa-user'></i> <a href="mailto:{{ $.Params.LastModifierEmail }}">{{ . }}</a> {{with $.Date}} <i class='fas fa-calendar'></i> {{ .Format "02/01/2006" }}{{end}}
+	    </div>
+	{{end}}
+</footer>
+
+{{ partial "footer.html" . }}

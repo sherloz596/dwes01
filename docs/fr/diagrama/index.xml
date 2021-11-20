@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Communication client/serveur on Exemple d&#39;utilisation des langues</title>
+    <link>https://github.com/sherloz596/dwes01.git/fr/diagrama/</link>
+    <description>Recent content in Communication client/serveur on Exemple d&#39;utilisation des langues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Nov 2021 10:06:45 +0100</lastBuildDate><atom:link href="https://github.com/sherloz596/dwes01.git/fr/diagrama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schéma client/serveur</title>
+      <link>https://github.com/sherloz596/dwes01.git/fr/diagrama/diagrama/</link>
+      <pubDate>Fri, 19 Nov 2021 15:52:22 +0100</pubDate>
+      
+      <guid>https://github.com/sherloz596/dwes01.git/fr/diagrama/diagrama/</guid>
+      <description>L&amp;rsquo;utilisateur écrit l&amp;rsquo;URL de la page à afficher dans la barre d&amp;rsquo;adresse du navigateur du client. Le client vérifie si l&amp;rsquo;adresse IP de la page demandée est stockée dans le cache. S&amp;rsquo;il est positif, il le renvoie au navigateur, s&amp;rsquo;il ne l&amp;rsquo;a pas, consultez le serveur DNS qui renvoie l&amp;rsquo;adresse IP.  flowchart LR; A[Client] --|URL| B(cache/hôte) B -- C{NON} C -- D[Serveur DNS] D -- |adresse ip| A B -- E{OUI} E -- |adresse ip| A  Le client établit une connexion TCP/IP avec le serveur.</description>
+    </item>
+    
+  </channel>
+</rss>

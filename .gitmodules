@@ -1,0 +1,9 @@
+[submodule "relearn"]
+	path = relearn
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/relearn"]
+	path = themes/relearn
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/learn"]
+	path = themes/learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
